@@ -1,6 +1,6 @@
 # ahlat
 
-A new Flutter project.
+Simple ui of a flutter shop application.
 
 ## Getting Started
 
